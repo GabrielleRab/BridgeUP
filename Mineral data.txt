@@ -1,11 +1,8 @@
-Mineral Name,Formula,Chemical Group,Color,Luster,"Special
- Gravity",Hardness,Tenacity,Cleavage/ Fracture,Streak,"Forming
- Environment"
-Hematite,Fe2O3,Oxide,Silver/red,Metallic,,5.5,,Fracture- Splintery,Red,"Pegmatite/
- Volcanic/ sedimentary"
+Mineral Name,Formula,Chemical Group,Color,Luster,Special Gravity,Hardness,Tenacity,Cleavage/Fracture,Streak,Forming Environment
+Hematite,Fe2O3,Oxide,Silver/red,Metallic,,5.5,,Fracture-Splintery,Red,Pegmatite/Volcanic/sedimentary
 Fluorite,CaF2,,,,,4,,Cleavage- Octahedral,White,Hydrothermal
-Pyrite,FeS2,,,Metallic,5,6.5,,Fracture,Black,Hydrothermal/metamorphic/ sedimentary
-Calcite,CaCO3,,,Non-metallic; vitreous,,3,,Cleavage -Rhombohedral,White,Hydrothermal/volcanic/ sedimentary
+Pyrite,FeS2,,,Metallic,5,6.5,,Fracture,Black,Hydrothermal/metamorphic/sedimentary
+Calcite,CaCO3,,,Non-metallic; vitreous,,3,,Cleavage -Rhombohedral,White,Hydrothermal/volcanic/sedimentary
 Quartz,,,,Non-metallic; vitreous,,7,,,White,Pegmatite
 Halite,,,,Non-metallic; vitreous,,,,Cleavage- Cubic,White,Evaporite
 Talc,,,,Non-metallic; vitreous,,1,,,White,Metamorphic
@@ -13,8 +10,8 @@ Magnetite,,,,Metallic,,,,,Dark gray,Hydrothermal/metamorphic/ sedimentary
 Graphite,,,,,,,,,,Metamorphic
 Diamond,,,,,,10,,,,Magmatic
 Sulfur,,,,,2.1,,,,Yellow,Volcanic/ sedimentary
-Topaz,,,,,3.5,8,,Cleavage- Basal,,Pegmatite
-Gypsum,,,,,,2,Flexible- Sectile,,,Evaporite
+Topaz,,,,,3.5,8,,Cleavage-Basal,,Pegmatite
+Gypsum,,,,,,2,Flexible-Sectile,,,Evaporite
 Microcline,,,,,2.6,6,,Cleavage- Rectangular,,
 Copper,,,,Metallic,8.8,,Malleable,Fracture- Hackly,,Hydrothermal/metamorphic
 Barite,,,,,4.5,,,Cleavage- Prismatic,,
