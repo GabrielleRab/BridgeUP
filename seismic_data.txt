@@ -1,0 +1,7 @@
+Time (minutes),	P wave distance traveled from focus (km),	S wave distance traveled from focus (km)
+0,	0,	0
+5,	2500,	1000
+7.4,	4000,	2000
+10,	7000,	3000
+13.7,	11000,	4000
+15,	16000,	5000
