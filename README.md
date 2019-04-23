@@ -1,2 +1,2 @@
 # BridgeUp
-Sample activities for the BridgeUp: STEM program at AMNH
+Sample activities from the BridgeUp: STEM program at AMNH
